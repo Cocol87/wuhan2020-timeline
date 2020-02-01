@@ -7,6 +7,7 @@
 
 ## 2019年12月9日
 ## 2019年12月10日
+* 出现第一个与海鲜市场有关的不明原因肺炎病例。见[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)
 ## 2019年12月11日
 ## 2019年12月12日
 * 第一例武汉不明肺炎病人入院。
